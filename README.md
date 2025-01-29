@@ -15,3 +15,10 @@ create blackjack (aka 21) in any language I learn
 # Extra
 - GUI
 - save high score
+
+
+# List of languages
+- Python
+- C++
+- Javascript
+- Node JS
