@@ -11,14 +11,25 @@ create blackjack (aka 21) in any language I learn
 - shuffle deck
 - game loop
 - error handling
-
-# Extra
-- GUI
 - save high score
 
+# If possible units
+- one basic (eg one script)
+- one module (import)
+- one gui (UI)
 
-# List of languages
-- Python
-- C++
-- Javascript
-- Node JS
+# Status
+🟩 = done
+
+🟨 = working on it
+
+🟥 = not started
+# List of languages to look at
+- Python 🟨 (1/3)
+- C# 🟥 (0/?)
+- Javascript🟥 (0/?)
+- Typescript🟥 (0/?)
+- Go🟥 (0/?)
+- Rust🟥(0/?)
+- Lua🟥(0/?)
+- ???
