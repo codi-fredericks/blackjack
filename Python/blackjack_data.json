@@ -1,0 +1,16 @@
+{
+    "points": 200,
+    "high_score": 200,
+    "prev_games": [
+        {
+            "timestamp": 1753270780.147209,
+            "result": "Win",
+            "points_gained": 100
+        },
+        {
+            "timestamp": 1753270812.061609,
+            "result": "Win",
+            "points_gained": 100
+        }
+    ]
+}
